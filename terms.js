@@ -67,4 +67,5 @@ var terms = [
   "Cloud",
   "Demokratie",
   "Ratsinformationssystem",
+  ".ms Domain",
 ];
